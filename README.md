@@ -1,2 +1,2 @@
-# my-ramda
-Ramda like library
+# my-react
+React like library
