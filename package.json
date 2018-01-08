@@ -21,5 +21,6 @@
   "homepage": "https://github.com/Bilchuck/my-react#readme",
   "devDependencies": {
     "mocha": "^4.0.1"
-  }
+  },
+  "dependencies": {}
 }
