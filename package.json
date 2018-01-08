@@ -1,0 +1,25 @@
+{
+  "name": "bilchuck-react",
+  "version": "0.0.1",
+  "description": "React like library",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha './src/test/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilchuck/my-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bilchuck/my-react/issues"
+  },
+  "homepage": "https://github.com/Bilchuck/my-react#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
